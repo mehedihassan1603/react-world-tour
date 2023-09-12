@@ -1,0 +1,13 @@
+.country{
+    border: 2px solid peru;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 10px;
+}
+.grid{
+    display: grid;
+    
+}
+.btnBg{
+    background-color: cadetblue;
+}
