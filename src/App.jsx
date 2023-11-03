@@ -5,12 +5,13 @@ import Countries from './components/Countries/Countries'
 function App() {
 
   return (
-    <>
+    <div className='bgcolor'>
       <div>
-        <h2>React World Tour</h2>
+        <h2>Tour With Mehedi</h2>
+
       </div>
       <Countries></Countries>
-    </>
+    </div>
   )
 }
 

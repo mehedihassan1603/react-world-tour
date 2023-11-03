@@ -1,6 +1,10 @@
 #root {
+  
+  background-color: aqua;
+}
+.bgcolor{
+  background-color: rgb(223, 223, 241);
   max-width: 1280px;
   margin: auto 100px;
   padding: 2rem;
 }
-
